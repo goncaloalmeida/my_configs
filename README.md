@@ -1,4 +1,4 @@
 # my_configs
 
 ## git configs
-### change the ~/.gitconfig file
+change the ~/.gitconfig file

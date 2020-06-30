@@ -3,7 +3,12 @@
         name = Gonçalo Almeida
 [alias]
     st = status
-    co  = checkout
-    co = commit
-    coa = commit --amend
+    br = branch
+    adu = add -u
+    rei = rebase -i
+    rec = rebase --continue
+    rea = rebase --abort
+    co = checkout
+    cm = commit
+    cma = commit --amend
     plog = log --graph --pretty='format:%C(red)%d%C(reset) %C(yellow)%h%C(reset) %ar %C(green)%aN%C(reset) %s'
